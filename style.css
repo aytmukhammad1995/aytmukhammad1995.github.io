@@ -1,0 +1,39 @@
+body {
+	font-family: Verdana;
+	background-color: #FAF0CA;
+}
+p {
+	font-size: 17pt;
+	color: #8c8c8c;
+}
+li {
+	font-size: 15pt;
+	color: #8c8c8c;
+}
+h1 {
+	color: #32D972;
+	text-align: center;
+}
+h2 {
+	color:#32D972;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: #FFF;
+}
+a:visited {
+	color: #FFF;
+}
+a:active {
+	color: #FFF;
+}
+div {
+	background-color: #222328;
+	padding: 10px 40px;
+	color: #FFF;
+	width: 80%;
+	font-weight: 800;
+	margin: auto;
+}
